@@ -38,4 +38,9 @@ with your actual API key.
     - OpenWeatherMap API
 
 🧩 Results
+<img width="1921" height="1000" alt="image" src="https://github.com/user-attachments/assets/9fa502fb-74be-4d38-b215-d2e8ce382adb" />
+<img width="1923" height="1000" alt="image" src="https://github.com/user-attachments/assets/4e25bc64-18fb-4339-9215-5ff3291e4095" />
+
+
+
 
